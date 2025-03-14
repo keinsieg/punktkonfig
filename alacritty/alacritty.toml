@@ -1,0 +1,5 @@
+[window]
+opacity = 0.80  # Adjust for more or less transparency (1.0 = no transparency)
+[font]
+normal = { family = "DejaVu Sans Mono", style = "Regular" }
+size = 9  # Change this number to adjust the font size
