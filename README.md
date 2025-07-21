@@ -1,6 +1,6 @@
 # 🌸 userdots
 
-> A curated collection of my personal dotfiles — clean, minimal, and crafted for everyday hacking.
+> A curated collection of my personal dotfiles — minimal, clean, and tailored for efficient daily development.
 
 `userdots` is my portable, version-controlled setup for a Unix-like environment. It includes configs and customizations for tools I use daily, focused on speed, clarity, and aesthetic consistency.
 
