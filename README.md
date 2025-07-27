@@ -1,7 +1,7 @@
 # 🌸 punktkonfig
 
 > My personal dotfiles – minimal, fast, and portable.  
-> Built for real Linux systems. Inspired by antiX – no bloat, no nonsense. 🐧
+> Built for real Linux systems. Inspired by antiX – no bloat. 🐧
 
 ---
 
